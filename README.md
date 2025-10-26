@@ -221,25 +221,6 @@ We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.
 - 🧪 Additional test coverage
 - 🌐 Multi-language support
 
-## 📈 Roadmap
-
-### Phase 1 (Current)
-- ✅ Core smart contracts
-- ✅ Basic frontend interface
-- ✅ Sepolia testnet deployment
-
-### Phase 2 (Q1 2025)
-- 🔄 Mainnet deployment
-- 📱 Mobile app development
-- 🎨 Enhanced UI/UX
-- 📊 Analytics dashboard
-
-### Phase 3 (Q2 2025)
-- 🌍 Multi-chain support
-- 🎫 Advanced ticket types
-- 🤝 Partnership integrations
-- 📈 DAO governance
-
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
