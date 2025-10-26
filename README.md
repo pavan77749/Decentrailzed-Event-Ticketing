@@ -171,13 +171,7 @@ Security is our top priority:
 - **Input Validation**: Comprehensive parameter checking
 - **Emergency Pause**: Circuit breaker for critical situations
 
-## 🌐 Deployment
 
-### Live Deployments
-
-#### Sepolia Testnet
-- **EventManager**: [`0x1088fAb41AB416A6968d6219857Ae085ee593237`](https://sepolia.etherscan.io/address/0x1088fAb41AB416A6968d6219857Ae085ee593237)
-- **EventTicket**: [`0xd49Ac8899558EBc3d4dc75e59f6FFCe3FAe44827`](https://sepolia.etherscan.io/address/0xd49Ac8899558EBc3d4dc75e59f6FFCe3FAe44827)
 
 ### Deploy Your Own
 
