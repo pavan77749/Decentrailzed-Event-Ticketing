@@ -242,12 +242,5 @@ The contracts are designed with upgradeability in mind:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🔗 Links
 
-- **Frontend Demo**: [https://eventchain-demo.vercel.app](https://eventchain-demo.vercel.app)
-- **Documentation**: [https://docs.eventchain.dev](https://docs.eventchain.dev)
-- **Etherscan**: [View on Etherscan](https://sepolia.etherscan.io/address/0x1088fAb41AB416A6968d6219857Ae085ee593237)
-
----
-
-**Built with ❤️ by the PAVAN GUPTA **
+**Built with ❤️ by the Pavan Gupta **
