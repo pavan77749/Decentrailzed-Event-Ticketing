@@ -48,7 +48,7 @@ eventchain-ticketing/
 
 ### 1. Clone & Install
 ```bash
-git clone https://github.com/yourusername/eventchain-ticketing.git
+git clone https://github.com/pavan77749/eventchain-ticketing.git
 cd eventchain-ticketing
 
 # Install smart contract dependencies
